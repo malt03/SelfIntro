@@ -1,0 +1,32 @@
+body{
+	text-align:center;
+}
+
+#wrap{
+	width:500px;
+	height:600px;
+	margin:0 auto;
+	text-align:left;
+	background-color:#EEFFFF;
+	border-bottom:solid 1px #333;
+	border-top:solid 1px #333;
+	border-left:solid 1px #333;
+	border-right:solid 1px #333;
+}
+
+#head{
+	padding:10px;
+	background-color:#AAFFFF;
+	text-align:left;
+}
+
+#navi{
+	height:40px;
+	background-color:#DDFFFF;
+	text-align:center;
+	vertical-align:bottom;
+}
+
+.post{
+	padding:10px;
+}
